@@ -1,3 +1,4 @@
+#this program is for generating password
 from random import *
 import array
 
